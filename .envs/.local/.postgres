@@ -1,0 +1,6 @@
+# PostgreSQL Configuration
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5435
+POSTGRES_DB=initial
+POSTGRES_USER=developer
+POSTGRES_PASSWORD=programaciondaw
